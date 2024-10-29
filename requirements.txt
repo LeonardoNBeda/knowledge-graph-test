@@ -1,0 +1,10 @@
+requests
+PyGithub
+transformers
+torch==2.0.1
+networkx
+matplotlib
+networkx
+scipy
+numpy==1.0.1
+beautifulsoup4
